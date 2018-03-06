@@ -216,6 +216,11 @@ input[type=submit] {
   border: 0 none;
 }
 
+#connectme{
+  float: right;
+  background-color: #ffffff
+}
+
 
 @media screen and (max-width: 980px) {
   .container {
